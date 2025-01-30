@@ -1,7 +1,5 @@
 #pragma once
 
-#include "Eigen/Eigen"
-
 #include <complex>
 #include <filesystem>
 #include <format>
